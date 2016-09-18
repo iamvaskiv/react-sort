@@ -23,3 +23,14 @@
   font-size: 2rem;
   color: #ccc;
 }
+
+.user-list {
+  width: 100%;
+
+  tr {
+    td {
+      padding: 10px;
+      text-align: center;
+    }
+  }
+}
